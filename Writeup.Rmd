@@ -2,8 +2,6 @@
 title: "Coursera - Practical Machine Learning - Course Project Writeup"
 author: "Miroslav Zivkovic"
 --- 
-
-Last updated `r as.character(Sys.time())` using `r R.version$version.string`.
  
 ## Executive Summary  
 
